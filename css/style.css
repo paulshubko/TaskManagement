@@ -1,8 +1,7 @@
-h2 {
+.page_title {
   font-family: Arial;
   padding: 0 20px;
-  background: 	#add8e6;
-
+  background: #add8e6;
 }
 .button {
   background: #6495ed;
