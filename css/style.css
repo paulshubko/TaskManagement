@@ -1,0 +1,14 @@
+.page_title {
+  font-family: Arial;
+  padding: 0 20px;
+  background: #add8e6;
+}
+.button {
+  background: #6495ed;
+}
+.main_list {
+  position: relative;
+  display: block;
+  margin-left: 50px;
+  padding: 10px;
+}
