@@ -12,3 +12,12 @@
   margin-left: 50px;
   padding: 10px;
 }
+.out {
+  color: black;
+}
+.button {
+  color: blue;
+}
+#placehilder_task {
+  color: black;
+}
