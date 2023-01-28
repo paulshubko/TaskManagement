@@ -12,3 +12,21 @@
   margin-left: 50px;
   padding: 10px;
 }
+.out {
+  color: black;
+}
+.button {
+  color: blue;
+}
+#placehilder_task {
+  color: black;
+}
+#todo {
+  list-style-type: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+
+input[type=checkbox]:checked+label {
+  text-decoration: line-through;
+}
