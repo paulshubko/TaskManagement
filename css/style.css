@@ -21,8 +21,6 @@
 #placehilder_task {
   color: black;
 }
-<<<<<<< HEAD
-=======
 #todo {
   list-style-type: none;
   margin-left: 0;
@@ -32,4 +30,3 @@
 input[type=checkbox]:checked+label {
   text-decoration: line-through;
 }
->>>>>>> task_counter
